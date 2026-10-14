@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Fuerzas Intermoleculares y Propiedades Físicas",
+  "description": "Simulación científica interactiva para explorar las fuerzas intermoleculares (London, dipolo-dipolo, puentes de hidrógeno) y su relación con las propiedades macroscópicas de sustancias reales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
